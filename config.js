@@ -7,7 +7,7 @@
    Kunci di bawah ini bukan rahasia. Yang melindungi data adalah aturan Firestore (firestore.rules). */
 window.PLANNER_CLOUD = {
   enabled: false,
-  adminEmails: ["emailadmin@gmail.com"],   // huruf kecil semua, harus sama dengan firestore.rules
+  adminEmails: ["getramaz@gmail.com"],   
   firebase: {
     apiKey: "AIzaSyBJ2uD-XHG0_xjUU6YDvGPR6ND8o7COosc",
   authDomain: "planneradam.firebaseapp.com",
