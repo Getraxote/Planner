@@ -9,9 +9,9 @@ window.PLANNER_CLOUD = {
   enabled: false,
   adminEmails: ["emailadmin@gmail.com"],   // huruf kecil semua, harus sama dengan firestore.rules
   firebase: {
-    apiKey: "",
-    authDomain: "",
-    projectId: "",
-    appId: ""
+    apiKey: "AIzaSyBJ2uD-XHG0_xjUU6YDvGPR6ND8o7COosc",
+  authDomain: "planneradam.firebaseapp.com",
+  projectId: "planneradam",
+    appId: "1:175365258795:web:6961ad2828543a96a9b46e",
   }
 };
